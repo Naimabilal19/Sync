@@ -1,0 +1,10 @@
+C:\Users\naima\source\repos\sync\sync\bin\Debug\sync.exe.config
+C:\Users\naima\source\repos\sync\sync\bin\Debug\sync.exe
+C:\Users\naima\source\repos\sync\sync\bin\Debug\sync.pdb
+C:\Users\naima\source\repos\sync\sync\obj\Debug\sync.csproj.AssemblyReference.cache
+C:\Users\naima\source\repos\sync\sync\obj\Debug\sync.Form1.resources
+C:\Users\naima\source\repos\sync\sync\obj\Debug\sync.Properties.Resources.resources
+C:\Users\naima\source\repos\sync\sync\obj\Debug\sync.csproj.GenerateResource.cache
+C:\Users\naima\source\repos\sync\sync\obj\Debug\sync.csproj.CoreCompileInputs.cache
+C:\Users\naima\source\repos\sync\sync\obj\Debug\sync.exe
+C:\Users\naima\source\repos\sync\sync\obj\Debug\sync.pdb
